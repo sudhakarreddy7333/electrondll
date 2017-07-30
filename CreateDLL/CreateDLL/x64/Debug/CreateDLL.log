@@ -1,0 +1,10 @@
+﻿  HelloWorldDll.cpp
+d:\c++ programs\createdll\createdll\helloworlddll.cpp(6): warning C4273: 'MathLibrary::Functions::Add': inconsistent dll linkage
+  d:\c++ programs\createdll\createdll\helloworlddll.h(17): note: see previous definition of 'Add'
+d:\c++ programs\createdll\createdll\helloworlddll.cpp(11): warning C4273: 'MathLibrary::Functions::Multiply': inconsistent dll linkage
+  d:\c++ programs\createdll\createdll\helloworlddll.h(20): note: see previous definition of 'Multiply'
+d:\c++ programs\createdll\createdll\helloworlddll.cpp(16): warning C4273: 'MathLibrary::Functions::AddMultiply': inconsistent dll linkage
+  d:\c++ programs\createdll\createdll\helloworlddll.h(23): note: see previous definition of 'AddMultiply'
+     Creating library D:\C++ programs\CreateDLL\x64\Debug\CreateDLL.lib and object D:\C++ programs\CreateDLL\x64\Debug\CreateDLL.exp
+  CreateDLL.vcxproj -> D:\C++ programs\CreateDLL\x64\Debug\CreateDLL.dll
+  CreateDLL.vcxproj -> D:\C++ programs\CreateDLL\x64\Debug\CreateDLL.pdb (Partial PDB)
